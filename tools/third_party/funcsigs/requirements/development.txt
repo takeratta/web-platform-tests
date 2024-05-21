@@ -4,3 +4,4 @@ pip
 flake8
 sphinx
 wheel
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
