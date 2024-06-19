@@ -3,3 +3,4 @@ mozinfo >= 0.7
 mozlog >= 3.5
 mozdebug >= 0.1
 urllib3[secure]
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
